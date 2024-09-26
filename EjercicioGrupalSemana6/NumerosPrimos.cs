@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace EjercicioGrupalSemana6
+namespace CalculandoPrimos
 {
     public class NumerosPrimos
     {

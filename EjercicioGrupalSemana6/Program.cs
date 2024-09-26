@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace EjercicioGrupalSemana6
+namespace CalculandoPrimos
 {
     internal static class Program
     {
